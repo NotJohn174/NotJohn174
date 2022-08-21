@@ -1,1 +1,1 @@
-Welcome to Github Pages
+Welcome to GitHub Pages
