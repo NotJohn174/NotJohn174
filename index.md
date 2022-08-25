@@ -4,4 +4,6 @@
 
 `- DietPi` [**Download**](https://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Bullseye.7z)
 
+`- RetroPi` [**Download**](https://github.com/RetroPie/RetroPie-Setup/releases/download/4.8/retropie-buster-4.8-rpi4_400.img.gz)
+
 
